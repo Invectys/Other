@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJUsm91nmt1Z28Xz7LiLfBkOihJxmtQ0awThoLOAUt8FP9TfEeFGhpwOtZYzfx1dt6C4H45ZGvxKXTTmxLbb7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qzwse\\source\\repos\\LifehackStudio.Server\\LifehackStudio.Common\\LifehackStudio.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qzwse\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\qzwse\\.nuget\\packages\\watsontcp\\4.4.0.6\\watsontcp.4.4.0.6.nupkg.sha512",
+    "C:\\Users\\qzwse\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.8\\microsoft.netcore.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\qzwse\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\qzwse\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x86.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8r0p4IqHBm9b5N7JX10vhzcxaEAX2cn2p2RdfAy0f2i2qxcyHM/ISowU8rRFS9HOPJTAs496QKFMA/9ETCgIXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qzwse\\source\\repos\\LifehackStudio.Server\\LifehackStudio.Server\\LifehackStudio.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qzwse\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\qzwse\\.nuget\\packages\\watsontcp\\4.4.0.6\\watsontcp.4.4.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

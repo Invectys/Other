@@ -1,0 +1,8 @@
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\bin\Release\netcoreapp3.1\LifehackStudio.Common.deps.json
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\bin\Release\netcoreapp3.1\LifehackStudio.Common.dll
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\bin\Release\netcoreapp3.1\LifehackStudio.Common.pdb
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\obj\Release\netcoreapp3.1\LifehackStudio.Common.AssemblyInfoInputs.cache
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\obj\Release\netcoreapp3.1\LifehackStudio.Common.AssemblyInfo.cs
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\obj\Release\netcoreapp3.1\LifehackStudio.Common.csproj.CoreCompileInputs.cache
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\obj\Release\netcoreapp3.1\LifehackStudio.Common.dll
+C:\Users\qzwse\source\repos\LifehackStudio.Server\LifehackStudio.Common\obj\Release\netcoreapp3.1\LifehackStudio.Common.pdb
